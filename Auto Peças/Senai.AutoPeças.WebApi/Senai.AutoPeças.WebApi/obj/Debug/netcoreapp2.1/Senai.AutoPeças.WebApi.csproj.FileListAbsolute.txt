@@ -1,0 +1,14 @@
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.deps.json
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.runtimeconfig.json
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.runtimeconfig.dev.json
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.dll
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.csprojAssemblyReference.cache
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.RazorAssemblyInfo.cache
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.RazorAssemblyInfo.cs
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.AssemblyInfoInputs.cache
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.AssemblyInfo.cs
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.pdb
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.dll
+C:\Users\46445396860\Documents\2° Termo\Auto Peças\Senai.AutoPeças.WebApi\Senai.AutoPeças.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPeças.WebApi.pdb
