@@ -11552,11 +11552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46445396860\\Documents\\2° Termo\\Auto Peças\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\46445396860\\Documents\\2° Termo\\2s2019-t2-sprint-2-backend\\Auto Peças\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi.csproj",
       "projectName": "Senai.AutoPeças.WebApi",
-      "projectPath": "C:\\Users\\46445396860\\Documents\\2° Termo\\Auto Peças\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi.csproj",
+      "projectPath": "C:\\Users\\46445396860\\Documents\\2° Termo\\2s2019-t2-sprint-2-backend\\Auto Peças\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi.csproj",
       "packagesPath": "C:\\Users\\46445396860\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46445396860\\Documents\\2° Termo\\Auto Peças\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\46445396860\\Documents\\2° Termo\\2s2019-t2-sprint-2-backend\\Auto Peças\\Senai.AutoPeças.WebApi\\Senai.AutoPeças.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
